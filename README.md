@@ -1,5 +1,5 @@
 # 📊 Customer Churn Prediction & Risk Analytics
-🚀 **Live Web App Demo:** [Click Here to View Live Streamlit App]([https://customer-churn-prediction-yagneswar.streamlit.app](https://customer-churn-prediction-yagneswar.streamlit.app/))
+🚀 **Live Web App Demo:** [Click Here to View Live Streamlit App](https://customer-churn-prediction-yagneswar.streamlit.app/)
 
 An end-to-end Machine Learning pipeline that predicts customer churn probability for subscription services using **Logistic Regression** and deploys an interactive prediction microservice using **Streamlit**.
 
