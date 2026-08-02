@@ -1,0 +1,13 @@
+# --- Core Data Manipulation & Math ---
+pandas
+numpy
+
+# --- Data Visualization & Plotting ---
+matplotlib
+seaborn
+
+# --- Machine Learning & Analytics ---
+scikit-learn
+
+# --- Model Deployment ---
+streamlit
