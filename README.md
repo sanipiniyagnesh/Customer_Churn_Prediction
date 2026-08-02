@@ -29,7 +29,7 @@ Customer attrition (churn) directly impacts business revenue. This project proce
 
 ```bash
 # 1. Clone repository
-git clone [https://github.com/sanipiniyagnesh/Customer_Churn_Prediction.git](https://github.com/sanipiniyagneshr/Customer_Churn_Prediction.git)
+git clone [https://github.com/sanipiniyagnesh/Customer_Churn_Prediction.git]
 cd customer-churn-prediction
 
 # 2. Install dependencies
